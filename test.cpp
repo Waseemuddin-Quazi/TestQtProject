@@ -1,4 +1,3 @@
-#include <iostream.h>
 #include "logic.h"
 
 int main(int argc, char *argv[])
